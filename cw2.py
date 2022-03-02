@@ -76,10 +76,11 @@
 # except ValueError:
 #     print('Nie wczytano liczby calkowitej')
 
-lista = [3, 6, 7, 8, 9, 10, 1]
-slownik ={
-    'pies':'7',
-    'lata':'2002'
-}
-print(slownik)
+# lista = [3, 6, 7, 8, 9, 10, 1]
+# slownik ={
+#     'pies':'7',
+#     'lata':'2002'
+# }
+# print(slownik)
+
 
